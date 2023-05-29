@@ -3,3 +3,4 @@
     when amm = '0x70a1bee795a05f78a7185545c7e6a93d02442f5c' then 'azuki'
     when amm = '0xaC2Eadb88D9E4eEF34452943330f93E9A81De72d' then 'doodles'
     when amm = '0x246A801C1905a8E0FcE3AaB6561966c8BfC3D7bf' then 'milady'
+    
