@@ -1,4 +1,4 @@
-const { formatEther, Interface, TopicFilter } = require("ethers");
+const { formatEther } = require("ethers");
 const ethers = require("ethers");
 const nftperpABI = require("./nft-perp.json");
 require("dotenv").config();
