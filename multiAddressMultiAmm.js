@@ -33,7 +33,7 @@ async function main() {
     //same goes for the proTraders Array. As more proTraders join the platform and users subsribe to them, the array should be updated.
     //the arrays for both amms and proTraders can shrink in size depending on if users subscribes or unsubscribes from a particular protrader or amm.
     //NB: Amm here refers to NFT collections eg Azuki, BAYC
-    let proTraders = [ '0x79d899379844d35a1a1f5d51d3185dd821f44dc1', '0xD97CCe4de34373065cE4EbF5F395904b07Bc86C9'];
+    let proTraders = [ '0x4bA065b10d9F3E4960a53eFA882a940Fd3999A73', '0x15D3435f25eB464EA86853037Da94137BD76eF70'];
     let amms = [ '0x92b96d53cead8f3e13bcee03f1d9691a50194d1a', 
                 '0xac2eadb88d9e4eef34452943330f93e9a81de72d', 
                 '0x70a1bee795a05f78a7185545c7e6a93d02442f5c', 
